@@ -5,7 +5,7 @@
     --tv-color-toolbar-button-background-expanded: rgb(244, 143, 177);
     --tv-color-toolbar-button-background-active: rgb(249, 185, 233);
     --tv-color-toolbar-button-background-active-hover: rgb(244, 143, 177);
-    --tv-color-toolbar-button-text: rgb(136, 24, 79);
+    --tv-color-toolbar-button-text: #fff;
     --tv-color-toolbar-button-text-hover: rgb(74, 20, 140);
     --tv-color-toolbar-button-text-active: red;
     --tv-color-toolbar-button-text-active-hover: red;
@@ -16,7 +16,7 @@
     --tv-color-toolbar-save-layout-loader: rgb(106, 109, 120);
 
     --tv-color-popup-background: rgb(241, 188, 225);
-    --tv-color-popup-element-text: rgb(136, 24, 79);
+    --tv-color-popup-element-text: #fff;
     --tv-color-popup-element-text-hover: rgb(74, 20, 140);
     --tv-color-popup-element-background-hover: rgb(244, 143, 177);
     --tv-color-popup-element-divider-background: rgb(251, 223, 244);
@@ -24,7 +24,7 @@
     --tv-color-popup-element-hint-text: rgb(74, 20, 140);
     --tv-color-popup-element-text-active: rgb(6, 6, 255);
     --tv-color-popup-element-background-active: red;
-    --tv-color-popup-element-toolbox-text: rgb(136, 24, 79);
+    --tv-color-popup-element-toolbox-text: #fff;
     --tv-color-popup-element-toolbox-text-hover: rgb(74, 20, 140);
     --tv-color-popup-element-toolbox-text-active-hover: rgb(74, 20, 140);
     --tv-color-popup-element-toolbox-background-hover: rgb(222, 89, 132);
@@ -38,7 +38,7 @@
     --tv-color-toolbar-button-background-expanded: rgb(244, 143, 177);
     --tv-color-toolbar-button-background-active: rgb(249, 185, 233);
     --tv-color-toolbar-button-background-active-hover: rgb(244, 143, 177);
-    --tv-color-toolbar-button-text: rgb(136, 24, 79);
+    --tv-color-toolbar-button-text: #fff;
     --tv-color-toolbar-button-text-hover: rgb(74, 20, 140);
     --tv-color-toolbar-button-text-active: red;
     --tv-color-toolbar-button-text-active-hover: red;
@@ -49,7 +49,7 @@
     --tv-color-toolbar-save-layout-loader: rgb(134, 137, 147);
 
     --tv-color-popup-background: rgb(241, 188, 225);
-    --tv-color-popup-element-text: rgb(136, 24, 79);
+    --tv-color-popup-element-text: #fff;
     --tv-color-popup-element-text-hover: rgb(74, 20, 140);
     --tv-color-popup-element-background-hover: rgb(244, 143, 177);
     --tv-color-popup-element-divider-background: rgb(251, 223, 244);
@@ -57,7 +57,7 @@
     --tv-color-popup-element-hint-text: rgb(74, 20, 140);
     --tv-color-popup-element-text-active: rgb(6, 6, 255);
     --tv-color-popup-element-background-active: red;
-    --tv-color-popup-element-toolbox-text: rgb(136, 24, 79);
+    --tv-color-popup-element-toolbox-text: #fff;
     --tv-color-popup-element-toolbox-text-hover: rgb(74, 20, 140);
     --tv-color-popup-element-toolbox-text-active-hover: rgb(74, 20, 140);
     --tv-color-popup-element-toolbox-background-hover: rgb(222, 89, 132);
